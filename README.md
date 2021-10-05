@@ -1,16 +1,16 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Javascript's Plot.ly Library Embraced!
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
-# Brief Background: 
+## Given Background: 
+- ### Belly Button Biodiversity 
 - In this assignment, an interactive dashboard was built to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which cataloged the microbes that colonize human navels.
 - The given dataset revealed that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-## Step 1: Plotly
-
+## Project Description:
+### How did I Plotly? 
 1. The D3 library was used to read in `samples.json`.
-
-2. A Horizontal Bar Chart was createdd with a dropdown menu displaying the top 10 OTUs found in that individual.
+2. A Horizontal Bar Chart was created with a dropdown menu displaying the top 10 OTUs found in that individual.
 * Used `sample_values` as the values for the bar chart.
 * Used `otu_ids` as the labels for the bar chart.
 * Used `otu_labels` as the hovertext for the chart.
@@ -38,22 +38,9 @@ An example dashboard is shown below:
 
 ![hw](Images/hw02.png)
 
-## Advanced Challenge Assignment (Optional)
+### 7. Advanced Challenge
 
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
-* Update the chart whenever a new sample is selected.
+* Optionally we were challenged with adapting the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
+* This challenge was well met and the chart in the advanced file updates whenever a new sample is selected!
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
-
-
-## Deliverables:
-
-
-### About the Data
-
-Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
-
-- - -
-
-© 2019 Trilogy Education Services
