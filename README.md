@@ -44,3 +44,7 @@ An example dashboard is shown below:
 * This challenge was well met and the chart in the advanced file updates whenever a new sample is selected!
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
+
+# Deliverables:
+- The first run at this project with all its hiccups along the way can be found in the "CodeFiles" diectory of this repository
+- If you are looking for a finished product that works as the project objectives define then I would head to the "BonusFiles" directory and deploy those
